@@ -1,2 +1,6 @@
 # hello-world
-Just a new repository
+
+Hey Lads..
+
+Hope you all are enjoyning..
+
